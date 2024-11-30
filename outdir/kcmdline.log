@@ -1,0 +1,1 @@
+ubi.mtd=rootfs_1 root=mtd:ubi_rootfs rootfstype=squashfs rootwait uart_en=1 clk_ignore_unused vmalloc=1G
